@@ -1,0 +1,11 @@
+.welcome {
+  font-family: monospace;
+  border: 5px solid darkcyan;
+  font-size: 26px;
+}
+
+.cookie {
+  color: WHITE;
+  font-size: 20px;
+/*   background-color: lightblue; */
+}
